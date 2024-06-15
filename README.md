@@ -1,12 +1,10 @@
+# RCER-2015 Water Quality
 
-Royal Commission Environmental Regulations-2015
+This script represents my method for detecting exceedances in parameters listed in Table 3C. It should be noted that this script is not affiliated with RC or any official entity. Its purpose is to streamline the process of comparing data related to these specific parameters.
 
-WATER QUALITY STANDARDS FOR DIRECT DISCHARGE TO COASTAL WATERS
+Best regards,
 
-This repository focuses on ensuring compliance with RCER-2015 regulations for water quality standards.
-Purpose
-
-The scripts provided can be used to analyze water quality data and identify exceedances of permissible environmental thresholds specified in RCER-2015.
+Eng Yazeed Alzahrani
 
 
-i am using it for tabele 3C fell free to use it on any table you want.
+![App Screenshot](https://sinay.ai/wp-content/uploads/2022/08/shutterstock_795331030.jpg.webp)
