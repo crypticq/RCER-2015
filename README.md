@@ -7,3 +7,4 @@ This repository focuses on ensuring compliance with RCER-2015 regulations for wa
 Purpose
 
 The scripts provided can be used to analyze water quality data and identify exceedances of permissible environmental thresholds specified in RCER-2015.
+i am using for tabele 3C fell free to use it on any table you want.
